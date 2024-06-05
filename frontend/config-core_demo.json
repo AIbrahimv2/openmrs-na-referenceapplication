@@ -40,13 +40,13 @@
   },
   "@openmrs/esm-login-app": {
     "logo": {
-      "src": "https://16139.tel/logo/16139.png",
+      "src": "Nour-Alhayat Logo.png",
       "alt": "جمعية واحة نور الحياة"
     }
   },
   "@openmrs/esm-primary-navigation-app": {
     "logo": {
-      "src": "https://16139.tel/logo/16139.png"
+      "src": "Nour-Alhayat Logo.png"
     }
   }
 }
