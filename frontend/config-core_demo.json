@@ -37,5 +37,16 @@
     "Brand color #1": "#12adfb",
     "Brand color #2": "#001b73",
     "Brand color #3": "#001b73"
+  },
+  "@openmrs/esm-login-app": {
+    "logo": {
+      "src": "https://16139.tel/logo/16139.png",
+      "alt": "جمعية واحة نور الحياة"
+    }
+  },
+  "@openmrs/esm-primary-navigation-app": {
+    "logo": {
+      "src": "https://16139.tel/logo/16139.png"
+    }
   }
 }
